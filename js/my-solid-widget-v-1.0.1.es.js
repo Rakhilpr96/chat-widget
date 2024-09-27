@@ -1,3 +1,4 @@
+(function(){"use strict";try{if(typeof document<"u"){var o=document.createElement("style");o.appendChild(document.createTextNode(".main-container{position:absolute;bottom:10px;right:10px}.chat-bubble{background-color:#080839;border-radius:10px;padding:10px 15px;text-align:center;color:#f0f8ff;font-family:Cambria,Cochin,Georgia,Times,Times New Roman,serif;font-size:16px;cursor:pointer}.message-box-container{width:300px;height:450px;background-color:#faf7f4;border-radius:10px}.close-button{background-color:#000;color:#f0f8ff;margin-top:10px;margin-right:10px;float:right;padding:5px 10px}")),document.head.appendChild(o)}}catch(e){console.error("vite-plugin-css-injected-by-js",e)}})();
 const W = (e, t) => e === t, A = {
   equals: W
 };
